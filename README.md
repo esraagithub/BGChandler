@@ -13,6 +13,8 @@ BGChandler is a shinny app which help researchers in:
  
  HOW TO USE??? You need to upload deepBGC.BGC.tsv and  deepBGC.BGC.gbk (OUTPUTS FROM DeepBGC) to get a summary of DeepBGC output with visualization and  
  multiFASTA file of BGCs detecteed by DeepBGC (DeepBGC.FASTA)
+ ![image](https://user-images.githubusercontent.com/53595110/198819744-c7f87142-78d1-406d-b1f3-a8079c971b78.png)
+
  You need to upload deepBGC.BGC.tsv and  deepBGC.BGC.gbk, whole_genome.fasta, LINK to Antismash HTML output, DeepBGC.FASTA to get the following files:
  1-Antismash_summary.csv (it is the same content of antismash overview page in csv format)
  2-Antismash.fasta (fasta sequence of Antismash BGCs)
